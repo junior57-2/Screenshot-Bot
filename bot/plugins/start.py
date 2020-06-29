@@ -25,7 +25,7 @@ async def start(c, m):
                 ],
                 [
                     InlineKeyboardButton('💡  Source Code', url='https://t.me/demogod_1'),
-                    InlineKeyboardButton('👨  Master', url='https://t.me/proctecitron_bot')
+                    InlineKeyboardButton('👨  Master', url='https://t.me/protecitron_bot')
                 ]
             ]
         )
